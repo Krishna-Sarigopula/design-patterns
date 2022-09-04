@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\design-patterns\\src\\builder-pattern\\builder-pattern.csproj",
+      "projectUniqueName": "k:\\design-patterns\\src\\creational-design-pattern\\builder-pattern\\builder-pattern.csproj",
       "projectName": "builder-pattern",
-      "projectPath": "K:\\design-patterns\\src\\builder-pattern\\builder-pattern.csproj",
+      "projectPath": "k:\\design-patterns\\src\\creational-design-pattern\\builder-pattern\\builder-pattern.csproj",
       "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
-      "outputPath": "K:\\design-patterns\\src\\builder-pattern\\obj\\",
+      "outputPath": "k:\\design-patterns\\src\\creational-design-pattern\\builder-pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config"

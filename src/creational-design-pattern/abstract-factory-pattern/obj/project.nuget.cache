@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9n1ALzoq11fwr8gRTuo8W6DBD73uhgJFanVNmGK4KlfyiVFrm0cVEI080uFE8T76sIkcIYEm6Op1URBjPpMenQ==",
+  "dgSpecHash": "lf4tG/beBtAo0CT0OCwnYErVP2725jj4ddLrpEvRLo2IAuSEZEEsTyT3HH9GdnbM5PihcAxsolNnJ1PfDk0WOg==",
   "success": true,
-  "projectFilePath": "K:\\design-patterns\\src\\abstract-factory-pattern\\abstract-factory-pattern.csproj",
+  "projectFilePath": "k:\\design-patterns\\src\\creational-design-pattern\\abstract-factory-pattern\\abstract-factory-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

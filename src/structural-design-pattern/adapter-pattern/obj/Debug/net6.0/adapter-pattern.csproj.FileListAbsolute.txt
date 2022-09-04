@@ -1,0 +1,17 @@
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.csproj.AssemblyReference.cache
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.GeneratedMSBuildEditorConfig.editorconfig
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.AssemblyInfoInputs.cache
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.AssemblyInfo.cs
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.csproj.CoreCompileInputs.cache
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\bin\Debug\net6.0\adapter-pattern.exe
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\bin\Debug\net6.0\adapter-pattern.deps.json
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\bin\Debug\net6.0\adapter-pattern.runtimeconfig.json
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\bin\Debug\net6.0\adapter-pattern.dll
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\bin\Debug\net6.0\adapter-pattern.pdb
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.dll
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\refint\adapter-pattern.dll
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.pdb
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.genruntimeconfig.cache
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\ref\adapter-pattern.dll
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+K:\design-patterns\src\structural-design-pattern\adapter-pattern\obj\Debug\net6.0\adapter-pattern.csproj.CopyComplete

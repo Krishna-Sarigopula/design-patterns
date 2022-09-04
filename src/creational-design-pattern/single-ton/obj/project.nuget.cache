@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2NfsktZnfKx2fnxaiZ2CiUtDaNePv+B6x1FO1sVpe9lvVKtEXjIvfZkBNcWFvWBvHUUb/GPMHhKAVl3NvgqBug==",
+  "dgSpecHash": "UYt033WqXNRhnziexiiQ4PTP3mWvgvF8DVUYoJ5rnuvzjx1vh1NgLIkSjF3n9wB3a7zQ/5MjegX2oEbPaPU0WA==",
   "success": true,
-  "projectFilePath": "K:\\design-patterns\\src\\single-ton\\single-ton.csproj",
+  "projectFilePath": "k:\\design-patterns\\src\\creational-design-pattern\\single-ton\\single-ton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

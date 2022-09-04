@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\design-patterns\\src\\factory-method-pattern\\factory-method-pattern.csproj",
+      "projectUniqueName": "k:\\design-patterns\\src\\creational-design-pattern\\factory-method-pattern\\factory-method-pattern.csproj",
       "projectName": "factory-method-pattern",
-      "projectPath": "K:\\design-patterns\\src\\factory-method-pattern\\factory-method-pattern.csproj",
+      "projectPath": "k:\\design-patterns\\src\\creational-design-pattern\\factory-method-pattern\\factory-method-pattern.csproj",
       "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
-      "outputPath": "K:\\design-patterns\\src\\factory-method-pattern\\obj\\",
+      "outputPath": "k:\\design-patterns\\src\\creational-design-pattern\\factory-method-pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config"

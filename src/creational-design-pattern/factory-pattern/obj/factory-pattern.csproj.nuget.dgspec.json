@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\design-patterns\\src\\factory-pattern\\factory-pattern.csproj": {}
+    "k:\\design-patterns\\src\\creational-design-pattern\\factory-pattern\\factory-pattern.csproj": {}
   },
   "projects": {
-    "K:\\design-patterns\\src\\factory-pattern\\factory-pattern.csproj": {
+    "k:\\design-patterns\\src\\creational-design-pattern\\factory-pattern\\factory-pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\design-patterns\\src\\factory-pattern\\factory-pattern.csproj",
+        "projectUniqueName": "k:\\design-patterns\\src\\creational-design-pattern\\factory-pattern\\factory-pattern.csproj",
         "projectName": "factory-pattern",
-        "projectPath": "K:\\design-patterns\\src\\factory-pattern\\factory-pattern.csproj",
+        "projectPath": "k:\\design-patterns\\src\\creational-design-pattern\\factory-pattern\\factory-pattern.csproj",
         "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
-        "outputPath": "K:\\design-patterns\\src\\factory-pattern\\obj\\",
+        "outputPath": "k:\\design-patterns\\src\\creational-design-pattern\\factory-pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\design-patterns\\src\\single-ton\\single-ton.csproj": {}
+    "k:\\design-patterns\\src\\creational-design-pattern\\single-ton\\single-ton.csproj": {}
   },
   "projects": {
-    "K:\\design-patterns\\src\\single-ton\\single-ton.csproj": {
+    "k:\\design-patterns\\src\\creational-design-pattern\\single-ton\\single-ton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\design-patterns\\src\\single-ton\\single-ton.csproj",
+        "projectUniqueName": "k:\\design-patterns\\src\\creational-design-pattern\\single-ton\\single-ton.csproj",
         "projectName": "single-ton",
-        "projectPath": "K:\\design-patterns\\src\\single-ton\\single-ton.csproj",
+        "projectPath": "k:\\design-patterns\\src\\creational-design-pattern\\single-ton\\single-ton.csproj",
         "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
-        "outputPath": "K:\\design-patterns\\src\\single-ton\\obj\\",
+        "outputPath": "k:\\design-patterns\\src\\creational-design-pattern\\single-ton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config"
