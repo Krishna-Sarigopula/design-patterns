@@ -1,0 +1,15 @@
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\bin\Debug\net6.0\bridge-pattern.exe
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\bin\Debug\net6.0\bridge-pattern.deps.json
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\bin\Debug\net6.0\bridge-pattern.runtimeconfig.json
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\bin\Debug\net6.0\bridge-pattern.dll
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\bin\Debug\net6.0\bridge-pattern.pdb
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.csproj.AssemblyReference.cache
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.GeneratedMSBuildEditorConfig.editorconfig
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.AssemblyInfoInputs.cache
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.AssemblyInfo.cs
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.csproj.CoreCompileInputs.cache
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.dll
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\refint\bridge-pattern.dll
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.pdb
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\bridge-pattern.genruntimeconfig.cache
+K:\design-patterns\src\structural-design-pattern\bridge-pattern\obj\Debug\net6.0\ref\bridge-pattern.dll

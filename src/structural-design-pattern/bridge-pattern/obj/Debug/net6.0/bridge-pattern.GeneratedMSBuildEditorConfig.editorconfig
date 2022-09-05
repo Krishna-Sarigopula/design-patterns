@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = adapter_pattern
-build_property.ProjectDir = k:\design-patterns\src\structural-design-pattern\adapter-pattern\
+build_property.RootNamespace = bridge_pattern
+build_property.ProjectDir = K:\design-patterns\src\structural-design-pattern\bridge-pattern\
