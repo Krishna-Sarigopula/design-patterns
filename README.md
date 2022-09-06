@@ -1,5 +1,5 @@
 # design-patterns
-this repository is give you a complete idea about the design patterns. 
+this repository gives you a complete practical knowledge about the design patterns. 
 
 **Coded in: C# and dotnet core**
 
